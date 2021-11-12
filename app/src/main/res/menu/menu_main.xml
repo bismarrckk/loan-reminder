@@ -1,0 +1,19 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_cart2"
+        android:icon="@drawable/ic_inbox_24"
+        android:title=""
+        app:actionLayout="@layout/notification2"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/ic_alert_24"
+        android:title=""
+        app:actionLayout="@layout/notification"
+        app:showAsAction="always"/>
+
+
+</menu>
